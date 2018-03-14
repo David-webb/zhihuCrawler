@@ -45,8 +45,8 @@ class loginUtils():
         'client_id': 'c3cef7c66a1843f8b3a9e6a1e3160e20',
         'signature': '',  # 需要填， getSignature
         'timestamp': '',  # 需要填， getSignature调用getTImestamp
-        'username': '+8615905189761',
-        'password': 'tw201694',
+        'username': '你的账户名',
+        'password': '你的密码',
         'captcha': '',
         'lang': 'en',
         'ref_source': 'homepage',
